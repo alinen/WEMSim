@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E1900789-4073-2AF1-E332-7EA7FA116F48}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WEMSim",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
